@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Tiêu đề
-st.title("🏦 Ứng dụng đánh giá khả năng cho vay")
+st.title("🏦 APP CHO VAY ONLINE KHÁCH HÀNG CÁ NHÂN_TS. VŨ ĐỨC BÌNH")
 
 st.write("Nhập các thông tin của khách hàng để đánh giá khoản vay.")
 
