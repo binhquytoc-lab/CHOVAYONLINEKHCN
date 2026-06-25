@@ -2,7 +2,7 @@ import streamlit as st
 
 # Cấu hình trang
 st.set_page_config(
-    page_title="Ứng dụng đánh giá khoản vay",
+    page_title="APP CHO VAY ONLINE KHÁCH HÀNG CÁ NHÂN_TS. VŨ ĐỨC BÌNH",
     page_icon="🏦",
     layout="centered"
 )
